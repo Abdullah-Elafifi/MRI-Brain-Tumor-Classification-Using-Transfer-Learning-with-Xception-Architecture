@@ -1,2 +1,10 @@
 tensorflow==2.15.0
 openai
+streamlit
+numpy
+pandas
+tensorflow==2.15.0  # or your preferred version of TensorFlow
+Pillow 
+matplotlib
+reportlab
+gdown
