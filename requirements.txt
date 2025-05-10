@@ -1,9 +1,9 @@
-tensorflow==2.15.0
+tensorflow==2.17.1
+python-3.10
 openai
 streamlit
 numpy
 pandas
-tensorflow==2.15.0  # or your preferred version of TensorFlow
 Pillow 
 matplotlib
 reportlab
