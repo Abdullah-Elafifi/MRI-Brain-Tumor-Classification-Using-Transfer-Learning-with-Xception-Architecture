@@ -4,8 +4,10 @@ Brain tumors such as gliomas, meningiomas, and pituitary tumors can be life-thre
 and AI, deep learning models now aid radiologists and clinicians by providing fast, automated assessments. This project leverages transfer learning with the Xception model to classify brain tumors using MRI scans.
 <br> This application integrates a pre-trained deep learning model with a patient-friendly Streamlit interface to collect metadata, assess symptoms, classify tumor types, and generate PDF reports with optional OpenAI-based medical recommendations.
 
-## Public Accessibility:
-[https://mrimodelclnew.streamlit.app/](https://mrimodelclnew.streamlit.app/)
+## Public Accessibility and Beyond:
+- [https://mrimodelclnew.streamlit.app/](https://mrimodelclnew.streamlit.app/)
+- You can download the optimized version of the model via this link (in .h5):   [Link](https://drive.google.com/file/d/1MvsNwDuDvkceJG7OXsJW7VQGE2se3lFa/view?usp=drive_link)
+
 
 ## Dataset
 <p align="center"> <img src="images/2.jpg" alt="Brain MRI classification illustration" width="600"/> </p>
